@@ -21,7 +21,7 @@ cd telegram-bot
 nano bot.py
 ```
 #### Paste code ini ke dalam file bot.py
-### CATAT! GANTI url dengan PUBKEY KALIAN & bagian TOKEN dengan token bot Anda
+### CATAT! GANTI url dengan PUBKEY KALIAN & bagian TOKEN dengan TOKEN BOT KALIAN
 ```
 import asyncio
 import nest_asyncio
